@@ -48,10 +48,10 @@
 [github](https://github.com/)
 
 **Table**
-|Name|Branch|College|
-|-----|------|------|
-|abc|cse|VRSEC|
-|xyz|IT|VRSEC|
+|Name|Branch|College|    
+|-----|------|------|    
+|abc|cse|VRSEC|    
+|xyz|IT|VRSEC|    
 
 
 **Code**
